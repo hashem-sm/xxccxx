@@ -1,5 +1,13 @@
 #EXTM3U
 # Combined from the two new files - 1024 unique channels
+#EXTINF:-1 group-title="Various",33
+https://store2-czx.brqz.online/hls2/01/00006/514d1hc6k81r_h/index-v1-a1.m3u8?t=QMsa038CfRz-kgJQpnXma1DX2U9D7BUPrq0F8ha2gFY&s=1792159185&e=43200&v=345464880&i=0.0&sp=0
+#EXTINF:-1 group-title="Various",32
+https://aflm-srv2-gda.cdnz.quest/hls2/02/00072/ptgn6a41y3ce_n/index-v1-a1.m3u8?t=APlvMuwb_Dk-l8WirN2UefIYuGgb_10Ms7w3LX4-hIU&s=1792159896&e=18000&v=188816839&i=0.3&sp=0
+#EXTINF:-1 group-title="Various",31
+https://store2-czx.brqz.online/hls2/06/00005/hda2i8iyqd10_n/index-v1-a1.m3u8?t=oNGU_JGm_8PISxl2uXmLhSJqfBFF3irCZaTT6hBCnAc&s=1792159951&e=43200&v=345477670&i=0.0&sp=0
+#EXTINF:-1 group-title="Various",30
+https://store1-mvn.brqz.online/hls2/04/00005/a19fbhft75aj_n/index-v1-a1.m3u8?t=CrN36BHv2zUhbMC8PMOI-wtzh9J6EA8iXyKFv1LmiLs&s=1792160034&e=43200&v=345479028&i=0.0&sp=0
 #EXTINF:-1 group-title="Various",Мяч sports
 http://u.vipl.one/high/miwu7vnyk2/1496.m3u8
 #EXTINF:-1 group-title="Various",A spor Turkey
